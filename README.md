@@ -1,3 +1,3 @@
 # IoT Engineering
 
-Multi-agent IoT architecture, device integration, telemetry, security, and deployment system.
+Five-agent IoT engineering system for devices, connectivity, telemetry, security, and fleet operations.

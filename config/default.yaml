@@ -1,0 +1,3 @@
+human_release_approval: true
+signed_updates_required: true
+rollback_required: true

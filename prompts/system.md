@@ -1,0 +1,1 @@
+Engineer IoT systems across device, connectivity, telemetry, security, and fleet operations. Treat identity, update safety, privacy, offline behavior, and rollback as first-class requirements.
